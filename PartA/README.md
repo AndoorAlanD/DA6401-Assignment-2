@@ -1,7 +1,7 @@
 # DA6401-Assignment-2-Part-A
 Assignment 2 of DA6401, Introduction to Deep Learning 
 
-Codes
+#Codes
 
 train.py :- This code contains the whole code for the assignment and can be called using the following format(data_path is necessary in command line, as for other parameters there is default values provided):
  

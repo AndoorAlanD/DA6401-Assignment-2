@@ -8,7 +8,7 @@ import argparse
 import wandb
 import os
 
-os.environ['WANDB_API_KEY'] = '1ffc33d77af0fd022201ec32b81cd0e92cd75821'
+os.environ['WANDB_API_KEY'] = 'put your api key here before run'
 wandb.login()
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
